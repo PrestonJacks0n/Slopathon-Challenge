@@ -1,3 +1,6 @@
+# Checkout Demo: 
+https://slopathon-challenge.vercel.app/
+
 # ⚡ FLY OR DIE CHALLENGE
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
