@@ -55,3 +55,17 @@ Features a responsive split-screen paneling system:
    ```bash
    git clone [https://github.com/PrestonJacks0n/fly-or-die.git](https://github.com/PrestonJacks0n/fly-or-die.git)
    cd fly-or-die
+   
+2. **Clone the repository:**
+   ```bash
+   npm install
+
+3. Set up Environment Variables:
+Create a .env.local file in the root directory and add your secret OpenAI key:
+   `OPENAI_API_KEY=your_openai_api_key_here`
+
+4. Run the development server:
+   ```bash
+   npm run dev
+
+5. Open http://localhost:3000 with your browser to see the result.
